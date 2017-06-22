@@ -1,0 +1,24 @@
+ABCD ra ra ra ra
+ABDC ra ra sa ra ra
+ACBD ra sa ra ra ra
+ACDB ra pb sa ra pa ra ra
+ADBC ra pb ra ra pa ra
+ADCB ra pb pb ra pa ra pa ra
+BACD sa ra ra ra ra
+BADC sa ra ra sa ra ra
+BCAD pb sa ra pa ra ra ra
+BCDA pb pb sa ra pa pa ra ra ra
+BDCA pb pb sa sb ra pa ra ra pa ra
+BDAC pb sa ra pa ra sa ra ra
+CABD pb ra ra pa ra ra
+CADB pb ra sa ra pa ra ra
+CBAD pb sa ra ra pa ra ra
+CBDA pb pb sa ra pa ra pa ra ra
+CDBA pb pb sa ra ra pa pa ra ra
+CDAB pb pb ra ra pa pa ra ra
+DABC pb ra ra ra pa ra
+DACB pb ra sa ra ra pa ra
+DBAC pb sa ra ra ra pa ra
+DBCA pb pb sa ra pa ra ra pa ra
+DCAB pb pb ra ra pa ra pa ra
+DCBA pb pb sa ra ra pa ra pa ra

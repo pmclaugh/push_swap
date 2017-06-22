@@ -1,0 +1,24 @@
+ABCD pb pb sb pb rb pb rb
+ABDC pb pb sb pb pb rb rb
+ACBD pb pb rb pb sb pb rb
+ACDB pb pb rb pb rb pb sb
+ADBC pb pb pb sb pb rb rb sb
+ADCB pb pb pb rb rb pb sb
+BACD pb pb pb rb pb rb
+BADC pb pb pb pb rb rb
+BCAD pb pb rb pb pb rb
+BCDA pb pb rb pb rb pb
+BDCA pb pb pb rb rb pb
+BDAC pb pb pb sb pb rb rb
+CABD pb rb pb pb sb pb rb
+CADB pb rb pb pb rb pb sb
+CBAD pb rb pb pb pb rb
+CBDA pb rb pb pb rb pb
+CDBA pb rb pb rb pb pb
+CDAB pb rb pb rb pb pb sb
+DABC pb pb sb pb sb pb rb rb sb
+DACB pb pb sb pb rb rb pb sb
+DBAC pb pb sb pb sb pb rb rb
+DBCA pb pb sb pb rb rb pb
+DCAB pb pb rb rb pb pb sb
+DCBA pb pb rb rb pb pb
